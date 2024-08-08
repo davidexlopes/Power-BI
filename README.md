@@ -3,4 +3,10 @@
 In this repository I will store all the finished work done in power BI
 
 
-<span style="color: green"> Some green text </span>
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
