@@ -4,4 +4,4 @@ In this repository I will store all the finished work done in power BI
 
 
 
-//$\textcolor{red}{David\ is\ Awesome}$
+// $\textcolor{red}{David\ is\ Awesome}$
