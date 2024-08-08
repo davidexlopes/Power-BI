@@ -10,4 +10,4 @@ In this repository I will store all the finished work done in power BI
 # text in gray
 @@ text in purple (and bold)@@
 ```
-$${\color{red}Red}$$
+$${\color{red}Awesome}$$
