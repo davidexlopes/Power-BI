@@ -11,3 +11,7 @@ In this repository I will store all the finished work done in power BI
 @@ text in purple (and bold)@@
 ```
 $${\color{red}Awesome}$$
+
+
+
+⁠$${\color{red}C David Is awesome}$$ can try to use this
