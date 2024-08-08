@@ -14,4 +14,4 @@ $${\color{red}Awesome}$$
 
 
 
-⁠$${\color{red}C David Is awesome}$$ can try to use this
+⁠$${\color{red}David-Is-awesome}$$ can try to use this
