@@ -12,4 +12,4 @@ In this repository I will store all the finished work done in power BI
 ```
 ${\color{red}David is Awesome}$
 
-$\textcolor{yellow}{This\ is\ a\ Big\ Title}$
+$\textcolor{red}{David\ is\ Awesome}$
